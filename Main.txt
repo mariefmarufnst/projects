@@ -1,1 +1,3 @@
 Let's try to use Git
+
+This is an attempt to make a difference in the file
